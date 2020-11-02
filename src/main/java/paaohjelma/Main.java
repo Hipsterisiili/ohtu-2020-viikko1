@@ -1,4 +1,4 @@
-package Paaohjelma;
+package paaohjelma;
 
 import ohtu.ohtuvarasto.Varasto;
 
