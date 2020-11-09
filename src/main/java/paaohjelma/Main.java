@@ -57,4 +57,20 @@ public class Main {
         System.out.println("saatiin " + saatiin);
         System.out.println("Mehuvarasto: " + mehua);
     }
+
+    public static void eka() {
+
+    }
+
+    public static void toka() {
+
+    }
+
+    public static void kolmas() {
+
+    }
+    
+    public static void neljas() {
+
+    }
 }
